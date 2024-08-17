@@ -103,6 +103,7 @@ const Home = () => {
         style={{
           background: "#0c0c0c",
           boxShadow: "0px 0 10px rgb(25, 214, 57)",
+          maxWidth: "700px",
         }}
       >
         <ul className="list-group">
